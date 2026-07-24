@@ -32,13 +32,10 @@
 <!-- GitHub 数据统计 -->
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sun-Qinglin&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sun-Qinglin&theme=tokyonight&hide_border=true&stroke=478CBF&ring=478CBF&fire=478CBF" width="49%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sun-Qinglin&layout=compact&theme=tokyonight&hide_border=true&title_color=478CBF&langs_count=8" width="38%" />
-</p>
+
 
 <!-- 动态分割线 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
