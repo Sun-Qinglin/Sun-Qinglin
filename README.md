@@ -32,7 +32,7 @@
 <!-- GitHub 数据统计 -->
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sun-Qinglin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=478CBF&icon_color=478CBF" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sun-Qinglin&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sun-Qinglin&theme=tokyonight&hide_border=true&stroke=478CBF&ring=478CBF&fire=478CBF" width="49%" />
 </p>
 
